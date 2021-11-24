@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2869f585-3c81-918b-0ee1-c51c6c782807"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Measure and Integration",
+  "course_description": "This graduate-level course covers Lebesgue's integration theory with applications to analysis, including an introduction to convolution and the Fourier transform.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.125",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
